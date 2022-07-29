@@ -1,6 +1,9 @@
 # KurdOSINT-Framework
 
 
+
+[![Fing.png](https://i.postimg.cc/wv0mxTmV/Fing.png)](https://postimg.cc/N92Mptb9)
+
 ![Image](https://api.intechopen.com/media/chapter/17747/media/image8.png)
 
 

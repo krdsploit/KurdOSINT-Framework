@@ -5,11 +5,7 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
  This site was built using [GitHub Pages](https://github.com/krdsploit).
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
-
+![Image](https://api.intechopen.com/media/chapter/17747/media/image8.png)
 
 *Professional Kurdish Penetration Tester 
 Title => KurdOSINT Information Gathering From World Wide Web

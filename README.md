@@ -3,6 +3,8 @@
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+ This site was built using [GitHub Pages](https://github.com/krdsploit).
+
 
 
 

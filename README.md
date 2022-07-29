@@ -2,7 +2,7 @@
 
 
 
-![This is an image]([https://ibb.co/tsSw44k](https://www.intechopen.com/chapters/17747))
+![This is an image]([https://content.iospress.com/media/kes/2021/25-2/kes-25-2-kes210068/kes-25-kes210068-g001.jpg))
 
 
 

@@ -7,7 +7,7 @@
 
 
 
-Professional Kurdish Penetration Tester 
+*Professional Kurdish Penetration Tester 
 Title => KurdOSINT Information Gathering From World Wide Web
 Version => 0.1
 Platform => Win , Linux 

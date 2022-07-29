@@ -18,18 +18,18 @@ Github => github.com/krdsploit
 
 -Home Category
 
- -Search For Certain User 
- -Get The User ID :")
- -Social Media User Finder 
- -Scrapping Instagram Your Friend 
- -Generation Profiles Instagram Followers & Unfollowers 
- -Check Status Number 
- -Generate Phone Number 
- -Social Hunting 
- -Email Vaildator 
- -Bank-Account 
- -Face Biometric
- -Fingerprint Matching 
+ 1-Search For Certain User 
+ 2-Get The User ID :")
+ 3-Social Media User Finder 
+ 4-Scrapping Instagram Your Friend 
+ 5-Generation Profiles Instagram Followers & Unfollowers 
+ 6-Check Status Number 
+ 7-Generate Phone Number 
+ 8-Social Hunting 
+ 9-Email Vaildator 
+ 10-Bank-Account 
+ 11-Face Biometric
+ 12-Fingerprint Matching 
     
 
 

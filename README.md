@@ -2,13 +2,13 @@
 
 
 
-# Professional Kurdish Penetration Tester 
-# Title => KurdOSINT Information Gathering From World Wide Web
-# Version => 0.1
-# Platform => Win , Linux 
-# Android OS => Termux
-# Language => Python3
-# Github => github.com/krdsploit
+Professional Kurdish Penetration Tester 
+Title => KurdOSINT Information Gathering From World Wide Web
+Version => 0.1
+Platform => Win , Linux 
+Android OS => Termux
+Language => Python3
+Github => github.com/krdsploit
 
 
 Home Category
@@ -37,3 +37,5 @@ Get The User ID Facebook
 Get The User ID Twiiter 
 Get The User ID Instagram 
  
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
